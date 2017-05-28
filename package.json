@@ -1,0 +1,13 @@
+{
+  "name": "modern-js-stack",
+  "version": "1.0.0",
+  "description": "tutorial modern js",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {
+    "color": "^1.0.3"
+  }
+}
